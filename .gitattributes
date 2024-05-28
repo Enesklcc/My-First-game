@@ -1,1 +1,1 @@
-*.cs diff=csharp
+**/Shaders/* linguist-vendored
